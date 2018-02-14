@@ -1,6 +1,3 @@
-[submodule "android/ioio"]
-	path = android/ioio
-	url = git://git.xcsoar.org/xcsoar/master/ioio.git
 [submodule "lib/boost/config"]
 	path = lib/boost/config
 	url = git://github.com/boostorg/config.git
